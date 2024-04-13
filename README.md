@@ -60,7 +60,7 @@ Esse projeto inicia com o curso de [Automação de Testes Web com Selenium Webdr
 | Verifique que é possivél efetuar login                              | test_login_valido                 | Automated |
 | Verifique a mensagem de erro ao efetuar o login com a senha errada  | test_login_invalido               | Automated |
 | Verifique que é possivél adicionar itens ao carrinho                | test_adicionar_produtos_carrinho  | Automated |
-| Verifique que é possivél concluir uma compra                        | test_efetuar_compra               | Automated |
+| Verifique que é possivél concluir uma compra                        | test_efetuar_compra               | Needs Automated |
 
 
 </details>
